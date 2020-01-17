@@ -8,9 +8,8 @@ img {
   background-color: cyan
 }
 
-.main {
+.about {
   margin: 12px;
-  border-bottom-style: double;
   border: 20px blue;
   padding: 4px;
   background-color: yellow;
