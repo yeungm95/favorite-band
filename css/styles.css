@@ -6,3 +6,12 @@ img {
   width: 25%;
   float: right;
   background-color: cyan
+}
+
+.main {
+  margin: 12px;
+  border-bottom-style: double;
+  border: 20px blue;
+  padding: 4px;
+  background-color: yellow;
+}
